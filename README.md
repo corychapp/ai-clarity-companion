@@ -55,7 +55,7 @@ streamlit run demo/app.py
 
 ---
 
-## Endpoints (MVP)
+## Endpoints
 - `POST /chat` → empathetic chat w/ memory recall
 - `POST /save_note` → store reflection text in SQLite + Chroma
 - `GET /daily-checkin?user_id=...` → 3 guided prompts for clarity
