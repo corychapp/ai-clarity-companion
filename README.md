@@ -95,5 +95,3 @@ ai-clarity-companion/
   requirements.txt
   README.md
 ```
-
-Happy hacking!
