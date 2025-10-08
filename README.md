@@ -1,4 +1,4 @@
-# AI Clarity Companion (Portfolio MVP)
+# AI Clarity Companion (Portfolio)
 
 An empathetic journaling & clarity assistant that:
 - Reflects back feelings with a supportive, coaching tone
